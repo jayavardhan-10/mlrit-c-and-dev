@@ -1,5 +1,5 @@
 
-import datetime
+
 
 # Function to display the current date and time
 def display_datetime():
